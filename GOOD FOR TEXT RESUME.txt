@@ -1,0 +1,53 @@
+YIFAN LI
+
+1207 Ballard St, Silver Spring, MD 20910 • 301-318-0363 • yl2774@columbia.edu • www.columbia.edu/~yl2774
+
+INDUSTRY EXPERIENCE
+Java Developer, NOAA(Government Contractor)             						 Aug 2013- Current
+•	Develop Hazard Weather Broadcast plugins on the AWIPS II System, 
+on RedHat 5.8 and 5.9 workstations, using custom-installed Eclipse, Postgresql, PgAdmin3
+•	Debugged BuisnessManager.java, make it asymptotically more efficient, from O(N^2) to O(N)
+•	Use Spring and Hibernate to handle beans and connect to database 
+
+Software Engineer Intern, Cerner											           April-June 2013
+•	Used JUnit, Mockito and PowerMock for unit-testing and mocking. 
+Utilized Eclipse+Maven for building the environment, and VMWare Cloud to access the environment
+•	Doing Daily Scrum Meetings to report status and take feedbacks
+•	Followed the coding style and best practices in coding
+
+EDUCATION
+Columbia University, Fu Foundation School of Engineering and Applied Science		    New York, NY
+MS in Computer Science													Sep 2011- Feb 2013                             
+
+      Relevant Coursework:              	Analysis of Algorithms	Advanced Programming
+	                                                        Operating System	Advanced Software Engineering
+
+Beijing University of Posts and Telecommunications, International School				 Beijing, China
+BS in Telecommunication and Management	 			              		                 Sep 2007-June 2011
+B.S. with 1st class Honor degree  
+      Relevant Coursework:              	Java Programming	Software Engineering
+	                                                        C Programming	Internet Protocol
+
+PROJECT EXPERIENCE	
+“Iphone App “Men holds 20 second”, Columbia University						   	  Spring 2012
+•	Implemented in Objective C and Cocoa to develop this easy-playing game with my friend
+•	Used Agile software development, developed the game under tight schedule
+
+“Database of Soccer Team”, Columbia University						                               Fall 2011
+•	Prototyped a relational database system for a soccer team, used Relational/Entity Diagrams
+•	Used Oracle as the RDBMS, using SQL PLUS as command line interface
+
+ “Artificial Immune System”, Beijing University of Posts and Telecommunications   	           Spring 2011
+•	Wrote in Java a program to test the theory of undergraduate thesis defense paper 
+
+“Automatic Vending Machine”, Beijing University of Posts and Telecommunications                Spring 2010
+•	Built the software implemented in a vending machine adopting software engineering convention
+•	Served as a team leader for three and designed use cases of Specification and their relations
+
+SKILLS
+Languages:	Java, SQL, C, Python
+Tools:	Eclipse, Git, Maven, Postgres
+Operating Systems:	RHEL, Windows, Mac OS X
+
+AWARDS
+ “Best Business Model Winner” Team-winner in 30+ teams on “Devfest” hackathon, Columbia  Spring 2012
