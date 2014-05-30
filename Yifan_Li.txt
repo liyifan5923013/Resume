@@ -1,0 +1,49 @@
+Yifan Li
+1207 Ballard St, Silver Spring, MD, 20910 • yl2774@columbia.edu • 301-318-0363
+
+PROFESSIONAL EXPERIENCE	
+Chugach Alaska Corp., Silver Spring, Maryland
+Java Developer              			       										       Sep. 2013-Apr. 2014
+Participated in the redesign of the database schemas for NWS-BMH project(38 tables)
+Improved core Java classes to make the server logic more efficient(one instance from O(N2) to O(N))
+Injected weather station data to database utilizing Hibernate and Spring
+Wrapped the placeholder BMH code as a Eclipse plugin, to fit into existing plugin system(AWIPSII)
+Cerner Corp., Kansas City, Kansas  
+Velocity Software Engineer  		     	                        								 Apr.-Jun. 2013
+Implemented the Patience log-in program in Java utilizing Maven for Eclipse 
+Unit tested the final Java Program using JUnit, with Mockito and PowerMock for mocking.
+EDUCATION
+Columbia University, New York, NY									       	      	     
+MS in Computer Science													       			 Feb. 2013
+Relevant Coursework: Analysis of Algorithms in Java, Operating System, Database System  						      		      Unix Command, Programming Language and Translator
+				      Advanced Software Engineering, Database implementation, Mobile HCI
+Beijing University of Posts and Telecommunications(BUPT), Beijing, China		       
+BS in Telecommunication Engineering with Management						       			  Jun. 2011
+Relevant Coursework: Programming Fundamentals in C, Object Oriented Design in Java, Internet Protocol
+
+PROJECT EXPERIENCE	
+“Data science projects” using Python and R, General Assembly in D.C.             	                  Mar. 2014-current
+Forecast sales using linear regression, regularization on Walmart store http://bit.ly/1nc2MQ7
+Performed data prediction and visualization using sklearn, numpy and pandas in Python and ggplot in R             
+“Let Me See NYC” website using PHP on XAMPP, Columbia University	 	       			          Fall 2012
+Wrote server-side logic code to retrieve the itinerary information from Yelp and SeetGeek API 
+Performed black-box testing and white-box testing before locating and removing the server-side bug 
+“Data wrangling” using Python, Columbia University 			    				                         Fall 2012
+Retrieved data of 180 countries from FBI static HTML websites and output result based on queries
+“Linux kernel development” using C, Columbia University							                 Fall 2012
+Added Linux kernel system calls and implemented read-write lock logic by spin lock and semaphore
+Injected a “Symmetric Multiprocessor Weighted Round-Robin” scheduler to original scheduler framework
+“Football team DBMS” on Oracle 10g, Columbia University                  		                     		  Fall 2011
+Simulated the operation of football teams and designed the database management system by using       entity–relationship model diagrams and SQL schema
+Performed Update and Retrieval jobs on database system using SQL*Plus
+“Vending machine system” using Java, BUPT						              Spring 2010
+Designed vending machine model by using UML, which required conceptual diagrams, sequence diagrams
+Implemented functions including transaction, stock and security management
+
+ACTIVITIES
+“Devfest 2012” hackathon, named winner of  “Best Business Model”, Columbia University            Spring 2012
+
+TECHNICAL SKILLS
+Programming:             Java, Python, C, R, PHP, HTML/CSS, SQL
+Tools:                          Eclipse, Git, Maven, PostgreSQL
+Operating Systems:     Linux(RedHat), Windows, Mac OS X
